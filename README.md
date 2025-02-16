@@ -37,7 +37,6 @@ Cada exercício conta com explicações detalhadas sobre a função ou conceito 
 <br><br><br><br><br>
 <h1>Thanks to Professor Bruno from the CFBCursos channel for providing classes to create this material!</h1><br>
 
-[intro](https://github.com/user-attachments/assets/d1013907-cc59-4237-875c-8801020f8cc8)
 
 
 <h2>Check out his YouTube channel:</h2>
